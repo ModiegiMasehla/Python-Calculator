@@ -79,7 +79,7 @@ def run_calculator():
     while True:
         first_text = input("Enter the first number: ").strip()
         if first_text.lower() == "q":
-            print("Goodbye!")
+            print("Till next time. Byyye!")
             break
 
         try:
